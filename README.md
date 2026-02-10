@@ -122,20 +122,6 @@ PrimeCare can be deployed in hospitals, clinics, educational institutions, and o
 
 ````
 
----
-
-# ✅ What You Should Do Now
-
-1. Replace your current `README.md` with this content  
-2. Delete `README.txt`  
-3. Commit & push:
-
-```bash
-git add README.md
-git rm README.txt
-git commit -m "Update README with setup instructions and demo link"
-git push
-````
 
 ---
 
