@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🏥 PrimeCare – Doctor–Patient Management System
 
 PrimeCare is a full-stack web-based Doctor–Patient Management System designed to streamline appointment booking, medical record management, and remote consultations. The platform enables doctors to manage schedules efficiently while allowing patients to book appointments, view medical history, and consult doctors online.
