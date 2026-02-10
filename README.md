@@ -120,8 +120,8 @@ PrimeCare can be deployed in hospitals, clinics, educational institutions, and o
 
 ⭐ If you find this project useful, feel free to explore and star the repository!
 
-````
+`
 
 
----
+
 
